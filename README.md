@@ -18,7 +18,7 @@ _Table of Contents_
 Before getting started, make sure you have the following set up:
 - **A Discord Account**: You’ll need a Discord account to create a server and invite your bot.
 - **Node.js**: Ensure you have Node.js installed on your machine. You can download it from [Node.js](https://nodejs.org/).
-- **Basic Knowledge of JavaScript/TypeScript**: While we try to make this guide beginner-friendly, a basic understanding of programming will be helpful.
+- **Basic Knowledge of JavaScript/TypeScript**: While we try to make this guide beginner-friendly, a basic understanding of programming will be helpful!
 - **A Code Editor**: It’s recommended to use a code editor like Visual Studio Code to write and manage your code.
 
 
